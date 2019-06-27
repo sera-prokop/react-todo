@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+
+  &__title{
+    font-size: 35px;
+  }
+
+  &__text{
+    font-size: 20px;
+    color: #a1a1a1;
+  }
+}
